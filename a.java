@@ -1,13 +1,5 @@
-package kmit;
-public class A
-{
-    public int i;
-    public A()
-    {
-        System.out.println("Constructor called");
+public class a {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
     }
-    void m1()
-    {
-        System.out.println("M1 invoked");
-    }
-}   
+}
